@@ -10,7 +10,7 @@ The raw Spotify dataset was cleaned and prepared for analysis before creating th
 
 ## Dashboard
 
-![Spotify Dashboard](Imagesdashboard.png.png)
+![Spotify Dashboard](Imagesdashboard.png)
 
 ## Tools Used
 
